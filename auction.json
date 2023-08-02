@@ -1,0 +1,164 @@
+{
+  "auction": {
+    "minimum_price": 50,
+    "wonDisplayName": "Hasan",
+    "retail_price": 500,
+    "bidding_rate": 1,
+    "chatRoomRef": {
+      "_firestore": {
+        "projectId": "tayet3-deals"
+      },
+      "_path": {
+        "segments": [
+          "chats",
+          "8lOKtVOjGmPKwoAnEyqj"
+        ]
+      },
+      "_converter": {}
+    },
+    "closing_in": 0,
+    "starting_in": 0,
+    "hasWon": false,
+    "isVIP": false,
+    "duration": 3,
+    "auction_duration": 3,
+    "bidders": [
+      {
+        "_firestore": {
+          "projectId": "tayet3-deals"
+        },
+        "_path": {
+          "segments": [
+            "users",
+            "mzhpL9mBsDg1syQYsSUlXrNlzwJ2"
+          ]
+        },
+        "_converter": {}
+      },
+      {
+        "_firestore": {
+          "projectId": "tayet3-deals"
+        },
+        "_path": {
+          "segments": [
+            "users",
+            "KQLsEWS2v0gt6adUNlUNOdd9dQT2"
+          ]
+        },
+        "_converter": {}
+      },
+      {
+        "_firestore": {
+          "projectId": "tayet3-deals"
+        },
+        "_path": {
+          "segments": [
+            "users",
+            "XcgsM0F45DVlzCik6VSAgid5mzJ2"
+          ]
+        },
+        "_converter": {}
+      },
+      {
+        "_firestore": {
+          "projectId": "tayet3-deals"
+        },
+        "_path": {
+          "segments": [
+            "users",
+            "5ytl65URfYWBUe3NeT0uUu9rtiK2"
+          ]
+        },
+        "_converter": {}
+      },
+      {
+        "_firestore": {
+          "projectId": "tayet3-deals"
+        },
+        "_path": {
+          "segments": [
+            "users",
+            "pBLjlnv6MJOiZoerO4SMSmmErfs2"
+          ]
+        },
+        "_converter": {}
+      },
+      {
+        "_firestore": {
+          "projectId": "tayet3-deals"
+        },
+        "_path": {
+          "segments": [
+            "users",
+            "2Ya65eqVjsSUiX1rwjl2dd4E63g1"
+          ]
+        },
+        "_converter": {}
+      },
+      {
+        "_firestore": {
+          "projectId": "tayet3-deals"
+        },
+        "_path": {
+          "segments": [
+            "users",
+            "7YYL8PfqbUQcZLx9GN3EquhFVcx2"
+          ]
+        },
+        "_converter": {}
+      },
+      {
+        "_firestore": {
+          "projectId": "tayet3-deals"
+        },
+        "_path": {
+          "segments": [
+            "users",
+            "ShQ2TSt8FhTNxGbybKAEBGKi5Rj1"
+          ]
+        },
+        "_converter": {}
+      },
+      {
+        "_firestore": {
+          "projectId": "tayet3-deals"
+        },
+        "_path": {
+          "segments": [
+            "users",
+            "XZ7cXhJyguZXirqBwcV8kfsXgqW2"
+          ]
+        },
+        "_converter": {}
+      }
+    ],
+    "title": "ألوان",
+    "gallery": "https://firebasestorage.googleapis.com/v0/b/tayet3-deals.appspot.com/o/cms_uploads%2FAuctions%2F1684925883679000%2FDreamShaper_v5_A_vibrant_arts_crayons_brush_strokes_splash_0%20(1).jpg?alt=media&token=762cd2bd-7841-45d1-915d-b5c71ffbc0fb",
+    "totalBidders": 9,
+    "reset_count": 38,
+    "totalBids": 77,
+    "last_bid": {
+      "_firestore": {
+        "projectId": "tayet3-deals"
+      },
+      "_path": {
+        "segments": [
+          "users",
+          "pBLjlnv6MJOiZoerO4SMSmmErfs2"
+        ]
+      },
+      "_converter": {}
+    },
+    "isActive": false,
+    "current_value": 0,
+    "closing_time": {
+      "_seconds": 1686026752,
+      "_nanoseconds": 357000000
+    },
+    "starting_time": {
+      "_seconds": 1686026692,
+      "_nanoseconds": 357000000
+    },
+    "status": "pending"
+  }
+}
